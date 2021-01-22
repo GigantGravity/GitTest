@@ -1,0 +1,1 @@
+print('Rate deine Zahl!')
